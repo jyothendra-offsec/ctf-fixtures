@@ -41,3 +41,7 @@ python3 -m unittest discover -s tests -v
 ## Review workflow
 
 Compare the response status and size against several control requests before interpreting a difference. The included fixture deliberately varies one response.
+
+## Usage terms
+
+Original material in this revision requires the owner's written permission for modification or redistribution. Earlier MIT releases and third-party licenses retain their terms. See [LICENSE](LICENSE).
