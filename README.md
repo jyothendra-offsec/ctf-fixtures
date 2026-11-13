@@ -37,3 +37,7 @@ Response differences can have several causes. JWT header fields are untrusted me
 ```sh
 python3 -m unittest discover -s tests -v
 ```
+
+## Review workflow
+
+Compare the response status and size against several control requests before interpreting a difference. The included fixture deliberately varies one response.
