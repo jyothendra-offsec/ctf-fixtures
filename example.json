@@ -1,0 +1,1 @@
+{"kind":"http-oracle","control":[200,100],"responses":[{"label":"A","status":200,"size":100},{"label":"B","status":200,"size":140}]}
